@@ -7,6 +7,7 @@
 ### 4. 利用 Line 及 EMail 發送異常通知(簡易版)。
 ### 5. 判斷 Web Service 服務維運狀況及<del>異常時自動重啟服務</del>。
 　　- Application Pool 可使用 [Microsoft.Web.Administration](https://docs.microsoft.com/zh-tw/dotnet/api/microsoft.web.administration?redirectedfrom=MSDN&view=iis-dotnet) API 來偵測及重啟。
+### 6. LineBot 換上董大偉老師的 [LineBotSDK](https://www.nuget.org/packages/LineBotSDK)，這樣子大家比較好用些。
   
 ## 預留項目，可自行補上
 ### 1. 收集指定的 Application Pool 所使用的 CPU、Memory ...
