@@ -17,7 +17,7 @@ namespace HostHealthServiceDemo
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new HostHealthServiceDemo()
             };
             ServiceBase.Run(ServicesToRun);
         }

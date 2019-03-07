@@ -1,6 +1,6 @@
 ﻿namespace HostHealthServiceDemo
 {
-    partial class Service1
+    partial class HostHealthServiceDemo
     {
         /// <summary> 
         /// 設計工具所需的變數。
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            // 
+            // HostHealthServiceDemo
+            // 
+            this.ServiceName = "HostHealthServiceDemo";
+
         }
 
         #endregion
